@@ -3,7 +3,7 @@ name: Run Flipkart Scraper
 on:
   schedule:
     # Daily 5:40 PM IST (12:10 UTC)
-    - cron: '10 12 * * *'
+    - cron: '50 17 7 1 3'
   workflow_dispatch: # Manual Button
 
 jobs:
