@@ -16,7 +16,7 @@ YOUR_EMAIL = os.environ.get('EMAIL_USER')
 APP_PASSWORD = os.environ.get('EMAIL_PASS')
 
 # Jisko email bhejna hai uska address yahan likhein
-TO_EMAIL = "receiver@gmail.com"  
+TO_EMAIL = "Rosierfoods@gmail.com"  
 
 EXCEL_FILE = "flipkart_rosier_products.xlsx"
 HTML_FILE = "flipkart.html"
